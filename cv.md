@@ -20,6 +20,23 @@ My first full-fledged experience related to front-end development began at a cou
 * React(Class, Hooks)
 * VSCode
 ****
+## Code example:
+```
+function multiply(a, b){
+  return a * b
+};
+```
+****
+
+## Education:
+* University: International University «MITSO», Economist - marketer
+* Courses: 
+  * [TeachMeSkills](https://teachmeskills.by/)
+  * [Udemy](https://www.udemy.com/course/javascript_full/)
+****
+## Languages:
+* Russian
+* English
 
 
 
