@@ -1,1 +1,1 @@
-# rsschool-cv
+https://froze36.github.io/rsschool-cv/
