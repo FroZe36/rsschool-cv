@@ -106,7 +106,7 @@
 }
 .education__item:hover {
   border: 1px solid #000;
-  transition: border ease-in-out .7s;
+  transition: border ease-in-out 0.7s;
 }
 .education__item::before {
   position: absolute;
